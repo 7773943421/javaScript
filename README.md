@@ -1,1 +1,2 @@
-# javaScript
+# JavaScriptLearning1
+ JavaScriptLearning1

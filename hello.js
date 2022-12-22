@@ -1,0 +1,2 @@
+
+console.long(Hello Ashitosh);

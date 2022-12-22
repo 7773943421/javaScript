@@ -1,0 +1,12 @@
+var myNumber=100;//Declare and initialize valu
+var yourNumber=300;//Declare and initialize valu
+console.log("After Swapping");//log the cod
+console.log(myNumber,   yourNumber);//output the cod
+var temp=myNumber;//create third variable to strore value
+myNumber=yourNumber//put value to second valu
+yourNumber=temp;//replace the valu
+console.log("Before Swapping");
+console.log(myNumber,yourNumber);//get output
+
+
+

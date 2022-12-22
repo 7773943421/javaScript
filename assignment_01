@@ -1,0 +1,23 @@
+var dream=function my()
+{
+    var company =("My dream company is TCS");
+    console.log(company );
+}
+dream();
+
+
+//2 
+//2.1
+var Yourhobby1="Cricket";
+var Yourhobby2="Reading Book";
+var Yourhobby3="Watching Movi";
+function StringAssignment1()
+{
+    console.log(Yourhobby1);
+console.log(Yourhobby2);
+console.log(Yourhobby3);
+
+console.log(`"My hobbies are" ${ Yourhobby1} ${Yourhobby2} "and " ${Yourhobby3}`);
+
+}
+StringAssignment1();
