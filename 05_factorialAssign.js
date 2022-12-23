@@ -11,7 +11,6 @@ if(num1==0){
 }
 }
 factorial(5);
-factorial(10);
-factorial(15);
-factorial(20);
-factorial(25);
+factorial(7);
+factorial(8);
+factorial(12);
